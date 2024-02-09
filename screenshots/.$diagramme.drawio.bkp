@@ -1,0 +1,59 @@
+<mxfile host="Electron" modified="2024-02-09T19:47:52.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="itu1cLtEV7W-kbe3Ny3h" version="22.1.21" type="device">
+  <diagram name="Page-1" id="v1jjAnlAyCYNUa65xsuZ">
+    <mxGraphModel dx="880" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sHygcORPj75g8tVaJS48-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHygcORPj75g8tVaJS48-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-10" value="ASK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sHygcORPj75g8tVaJS48-6">
+          <mxGeometry x="0.1031" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-1" value="User" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sHygcORPj75g8tVaJS48-5" target="sHygcORPj75g8tVaJS48-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-11" value="Request response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sHygcORPj75g8tVaJS48-8">
+          <mxGeometry x="0.0698" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="221" as="sourcePoint" />
+            <mxPoint x="160" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-14" value="Display answer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sHygcORPj75g8tVaJS48-13">
+          <mxGeometry x="0.1231" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-5" value="streamlit app" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ClassicIPAddress.svg;" vertex="1" parent="1">
+          <mxGeometry x="290" y="195" width="107.14" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="217" as="sourcePoint" />
+            <mxPoint x="397.1400000000001" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-12" value="Provide response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sHygcORPj75g8tVaJS48-9">
+          <mxGeometry x="-0.0322" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sHygcORPj75g8tVaJS48-7" value="LLM" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="1">
+          <mxGeometry x="610" y="185" width="80" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

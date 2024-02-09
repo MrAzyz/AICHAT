@@ -26,7 +26,7 @@ def main():
     if st.button("answer"):
         #Warning if there is no input
         if not input_text:
-            st.warning('please enter value')
+            st.warning("Oops! It seems you forgot to enter a question. Please enter a question before clicking the 'Answer' button.")
         #display response
         else:
             st.write(llm.generate_response(input_text))
