@@ -31,11 +31,6 @@ Local ChatGPT is a conversational language model application powered by Streamli
    streamlit run app.py
    ```
 
-Credits
-.LangChain: LangChain
-.Hugging Face: Hugging Face
-.Streamlit: Streamlit
-
 Model : https://huggingface.co/google/flan-t5-xxl
 
 # SCREENSHOTS
