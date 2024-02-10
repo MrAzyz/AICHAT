@@ -3,6 +3,8 @@ from dotenv import load_dotenv
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 
+#create .env file and add to it your hugging face API KEY
+
 load_dotenv()
  
 template = """Question: {question}
